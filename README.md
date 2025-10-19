@@ -1,6 +1,6 @@
 # AQA Spammer
 
-A Python tool to spam AQA messages with proxies
+A Python tool to spam [AQA.link](https://aqa.link/) messages with proxies
 
 ## Support
 
@@ -39,3 +39,4 @@ You can use [Proxy-Scraper-And-Checker](https://github.com/xiaote0803/Proxy-Scra
 ## Disclaimer
 
 This project is for educational purposes only. Use at your own risk. Users are responsible for complying with all applicable laws and terms of service.
+
