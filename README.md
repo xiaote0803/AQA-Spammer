@@ -2,10 +2,6 @@
 
 A Python tool to spam [AQA.link](https://aqa.link/) messages with proxies
 
-## Support
-
-Join our Discord server for support and updates: [Discord Link](https://discord.gg/R7ybdvBSuM)
-
 ## Features
 
 - Concurrent multi-threading
@@ -39,4 +35,5 @@ You can use [Proxy-Scraper-And-Checker](https://github.com/xiaote0803/Proxy-Scra
 ## Disclaimer
 
 This project is for educational purposes only. Use at your own risk. Users are responsible for complying with all applicable laws and terms of service.
+
 
